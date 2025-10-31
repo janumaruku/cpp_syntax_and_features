@@ -1,0 +1,10 @@
+\hypertarget{Class_8hpp}{}\doxysection{/home/janumaruku/cpp\+Projects/cpp\+\_\+syntax\+\_\+and\+\_\+features/class/\+Class.hpp File Reference}
+\label{Class_8hpp}\index{/home/janumaruku/cppProjects/cpp\_syntax\_and\_features/class/Class.hpp@{/home/janumaruku/cppProjects/cpp\_syntax\_and\_features/class/Class.hpp}}
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for Class.\+hpp\+:
+% FIG 0
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classSample}{Sample}}
+\begin{DoxyCompactList}\small\item\em This is default structure of a class. \end{DoxyCompactList}\end{DoxyCompactItemize}

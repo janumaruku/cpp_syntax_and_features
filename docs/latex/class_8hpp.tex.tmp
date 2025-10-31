@@ -1,0 +1,37 @@
+\hypertarget{class_8hpp}{}\doxysection{/home/janumaruku/cpp\+Projects/cpp\+\_\+syntax\+\_\+and\+\_\+features/class/class.hpp File Reference}
+\label{class_8hpp}\index{/home/janumaruku/cppProjects/cpp\_syntax\_and\_features/class/class.hpp@{/home/janumaruku/cppProjects/cpp\_syntax\_and\_features/class/class.hpp}}
+
+
+Class in C++.  
+
+
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for class.\+hpp\+:
+% FIG 0
+
+
+\doxysubsection{Detailed Description}
+Class in C++. 
+
+\begin{DoxyAuthor}{Author}
+Guigonon Jean-\/\+Marc KOTTIN 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+2025-\/10-\/31
+\end{DoxyDate}
+This file demonstrates the basic syntax and structure for defining a class in C++. It covers key components such as\+:
+\begin{DoxyItemize}
+\item Class declaration and definition
+\item Access specifiers (public, private, protected)
+\item Member variables and member functions
+\item Constructors and destructors
+\end{DoxyItemize}
+
+The goal is to provide a clear and concise example for beginners learning object-\/oriented programming in C++.
+
+\begin{DoxyCopyright}{Copyright}
+Copyright (c) 2025 
+\end{DoxyCopyright}
